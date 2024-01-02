@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiKrishna1908
-- 👀 I’m interested in compiler design
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Systems Programming & Web Development
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me saikrishna1908@gmail.com
 
 <!---
