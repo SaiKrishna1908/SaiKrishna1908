@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiKrishna1908
 - 👀 I’m interested in Systems Programming & Web Development
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning about Compilers
 - 📫 How to reach me saikrishna1908@gmail.com
 
 <!---
